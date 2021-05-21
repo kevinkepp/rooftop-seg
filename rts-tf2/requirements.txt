@@ -1,4 +1,4 @@
-tensorflow==2.0.0rc1
+tensorflow==2.5.0rc0
 tensorflow-addons
 git+https://github.com/tensorflow/examples.git#egg=tensorflow_examples
 plac
